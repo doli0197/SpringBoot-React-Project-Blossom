@@ -1,4 +1,4 @@
-# SpringBoot-Project-MEGABOX
+# SpringBoot & React -Project-Blossom 여성의류 쇼핑몰
 SpringBoot & React - Blossom 여성의류 쇼핑몰 웹 사이트
 
 
