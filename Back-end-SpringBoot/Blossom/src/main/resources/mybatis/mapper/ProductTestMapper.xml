@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mapper
+  PUBLIC "-//mybatis.org//DTDMapper3.0//EN" 
+  "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+  <mapper namespace="com.spring.boot.mapper.ProductTestMapper">
+  
+  	<select id="maxNum" resultType="int">
+		select nvl(max(p_num),0) from producttest
+	</select>
+	 
+	<insert id="insertProduct" parameterType="com.spring.boot.dto.ProductTestDTO">
+       INSERT INTO producttest(p_num, p_name)
+       VALUES(#{p_num}, #{p_name})
+    </insert>
+  
+  </mapper>
