@@ -44,9 +44,10 @@ SpringBoot & React - Blossom 여성의류 쇼핑몰 웹 사이트
 #### 1대1문의 및 공지사항 - <a href="" >상세보기 - WIKI 이동</a> 
 - 글 작성, 읽기, 수정, 삭제(CRUD)
 
-#### 상품목록  - <a href="https://github.com/doli0197/SpringBoot-React-Project-Blossom/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(%EC%83%81%ED%92%88-%EB%AA%A9%EB%A1%9D)" >상세보기 - WIKI 이동</a>
-
-#### 상품리스트  - <a href="https://github.com/doli0197/SpringBoot-React-Project-Blossom/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(%EC%83%81%ED%92%88-%EC%83%81%EC%84%B8-%ED%8E%98%EC%9D%B4%EC%A7%80)" >상세보기 - WIKI 이동</a>
+#### 상품목록 & 상품 상세 페이지 - <a href="https://github.com/doli0197/SpringBoot-React-Project-Blossom/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(%EC%83%81%ED%92%88-%EB%AA%A9%EB%A1%9D)" >상세보기 - WIKI 이동</a>
+- 상품 목록 띄우기
+- 상품 상세 페이지 띄우기
+- 무한 스크롤 구현 
 
 
 #### 주문 하기 (미완성) - <a href="https://github.com/doli0197/SpringBoot-React-Project-Blossom/blob/main/Back-end-SpringBoot/Blossom/src/main/java/com/spring/boot/controller/MainController.java" >상세보기 - WIKI 이동</a>
