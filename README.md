@@ -30,21 +30,23 @@ SpringBoot & React - Blossom 여성의류 쇼핑몰 웹 사이트
 - 신상품 / 베스트 상품 
 - 이미지 슬라이드
 - 헤더,푸터 구현
-- 
-#### 로그인 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Login)" >상세보기 - WIKI 이동</a>
+
+#### 로그인 - <a href="https://github.com/doli0197/SpringBoot-React-Project-Blossom/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C--(%EB%A1%9C%EA%B7%B8%EC%9D%B8)" >상세보기 - WIKI 이동</a>
 - DB값 검증
 - ID찾기, PW찾기
-#### 회원가입 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
+#### 회원가입 - <a href="https://github.com/doli0197/SpringBoot-React-Project-Blossom/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(%ED%9A%8C%EC%9B%90-%EA%B0%80%EC%9E%85)" >상세보기 - WIKI 이동</a>
 - 주소 API 연동
 - ID 중복 체크
-#### 마이 페이지 - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(Member)" >상세보기 - WIKI 이동</a>
+#### 마이 페이지 - <a href="https://github.com/doli0197/SpringBoot-React-Project-Blossom/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(%EB%A7%88%EC%9D%B4-%ED%8E%98%EC%9D%B4%EC%A7%80)" >상세보기 - WIKI 이동</a>
 - 주소 API 연동
 - 회원정보 변경
 
 #### 1대1문의 및 공지사항 - <a href="" >상세보기 - WIKI 이동</a> 
 - 글 작성, 읽기, 수정, 삭제(CRUD)
 
-#### 상품리스트  - <a href="https://github.com/chaehyuenwoo/SpringBoot-Project-MEGABOX/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C(%EC%98%81%ED%99%94-%EC%98%88%EB%A7%A4)" >상세보기 - WIKI 이동</a>
+#### 상품목록  - <a href="https://github.com/doli0197/SpringBoot-React-Project-Blossom/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(%EC%83%81%ED%92%88-%EB%AA%A9%EB%A1%9D)" >상세보기 - WIKI 이동</a>
+
+#### 상품리스트  - <a href="https://github.com/doli0197/SpringBoot-React-Project-Blossom/wiki/%EC%A3%BC%EC%9A%94-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C-(%EC%83%81%ED%92%88-%EC%83%81%EC%84%B8-%ED%8E%98%EC%9D%B4%EC%A7%80)" >상세보기 - WIKI 이동</a>
 
 
 #### 주문 하기 (미완성) - <a href="https://github.com/doli0197/SpringBoot-React-Project-Blossom/blob/main/Back-end-SpringBoot/Blossom/src/main/java/com/spring/boot/controller/MainController.java" >상세보기 - WIKI 이동</a>
